@@ -16,6 +16,6 @@
        android:id="@id/keyguard_users_grid"
        android:layout_width="wrap_content"
        android:layout_height="@dimen/keyguard_avatar_size"
-       android:layout_marginBottom="400.0dip" />
+       android:layout_marginBottom="300.0dip" />
 </com.android.internal.policy.impl.keyguard.KeyguardMultiUserSelectorView>
 
